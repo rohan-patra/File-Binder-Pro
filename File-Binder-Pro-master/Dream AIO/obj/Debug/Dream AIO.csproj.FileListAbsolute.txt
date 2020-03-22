@@ -1,0 +1,12 @@
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\bin\Debug\Dream AIO.exe
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\bin\Debug\Dream AIO.pdb
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream AIO.csprojAssemblyReference.cache
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Loader.Program.resources
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream_AIO.DownloaderDialog.resources
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream_AIO.BinderDialog.resources
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream_AIO.Form1.resources
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream_AIO.ItemOptions.resources
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream_AIO.Properties.Resources.resources
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream AIO.csproj.GenerateResource.cache
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream AIO.exe
+C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\Dream AIO.pdb
