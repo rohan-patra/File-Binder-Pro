@@ -4,3 +4,10 @@ C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Loader\obj\Debug\Load
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Loader\obj\Debug\Loader.csproj.GenerateResource.cache
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Loader\obj\Debug\Loader.exe
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Loader\obj\Debug\Loader.pdb
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Loader\bin\Debug\Loader.exe
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Loader\bin\Debug\Loader.pdb
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Loader\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Loader\obj\Debug\Loader.Program.resources
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Loader\obj\Debug\Loader.csproj.GenerateResource.cache
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Loader\obj\Debug\Loader.exe
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Loader\obj\Debug\Loader.pdb

@@ -9,3 +9,15 @@ C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\D
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\FileBinder.csproj.GenerateResource.cache
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\File Binder Pro.exe
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Dream AIO\obj\Debug\File Binder Pro.pdb
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\bin\Debug\File Binder Pro.exe
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\bin\Debug\File Binder Pro.pdb
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\FileBinder.csprojAssemblyReference.cache
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\Loader.Program.resources
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\Dream_AIO.DownloaderDialog.resources
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\Dream_AIO.BinderDialog.resources
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\Dream_AIO.Form1.resources
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\Dream_AIO.ItemOptions.resources
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\Dream_AIO.Properties.Resources.resources
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\FileBinder.csproj.GenerateResource.cache
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\File Binder Pro.exe
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Dream AIO\obj\Debug\File Binder Pro.pdb

@@ -2,3 +2,8 @@ C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Worker\bin\Debug\Work
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Worker\bin\Debug\Worker.pdb
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Worker\obj\Debug\Worker.dll
 C:\Users\rohan\Downloads\Dream-AIO-master\Dream-AIO-master\Worker\obj\Debug\Worker.pdb
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Worker\bin\Debug\Worker.dll
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Worker\bin\Debug\Worker.pdb
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Worker\obj\Debug\Worker.dll
+C:\Users\rohan\Downloads\File-Binder-Pro-master\File-Binder-Pro-master\File-Binder-Pro-master\Worker\obj\Debug\Worker.pdb
